@@ -1,2 +1,4 @@
 **/vite.config.ts
 **/*.d.ts
+dist
+node_modules

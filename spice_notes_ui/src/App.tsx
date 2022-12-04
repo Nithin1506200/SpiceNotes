@@ -2,11 +2,11 @@
 import React, { useState } from "react";
 import reactLogo from "./assets/react.svg";
 import "./App.scss";
-
-function App() {
+import theme from "./theme/theme.module.scss";
+function App(): JSX.Element {
   const [count, setCount] = useState(0);
   return (
-    <div className="App">
+    <div className={theme.light}>
       <div>
         <a href="https://vitejs.dev" target="_blank" rel="noreferrer">
           <img src="/vite.svg" className="logo" alt="Vite logo" />
