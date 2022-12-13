@@ -19,10 +19,20 @@ The color themes are inspiried by slices of india
 
 - [ ] features
   - [ ] UX Research
-  - [ ] prepare the
-- [ ] theme color selection
+  - [ ] final draft
 - [ ] ui designing
+  - [ ] theme color selection
+  - [ ] destop
+  - [ ] mobile
+  - [ ] tablet
 - [ ] code
+  - [ ] data architecture
+  - [ ] redux
+  - [ ] redux persist
+  - [ ] reusable scss store
+  - [ ] routing
+  - [ ] reusable react components
+  - [ ] responsiveness
 - [ ] testing
 
 ## project setup
