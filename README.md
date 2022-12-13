@@ -1,14 +1,29 @@
 - [SpiceNotes](#spicenotes)
+  - [Roadmap](#roadmap)
   - [project setup](#project-setup)
     - [Init](#init)
     - [scss](#scss)
     - [eslint](#eslint)
     - [Redux Toolkit](#redux-toolkit)
     - [React Redux](#react-redux)
+    - [Redux persist](#redux-persist)
+  - [Themes](#themes)
 
 # SpiceNotes
 
-Ofline app which you can add notes and ToDo! list.
+Offline WebApp which you can locally store notes and ToDo! list.
+inspired by <https://todo.microsoft.com/tasks/>
+The color themes are inspiried by slices of india
+
+## Roadmap
+
+- [ ] features
+  - [ ] UX Research
+  - [ ] prepare the
+- [ ] theme color selection
+- [ ] ui designing
+- [ ] code
+- [ ] testing
 
 ## project setup
 
@@ -99,3 +114,19 @@ yarn add @reduxjs/toolkit
 ```sh
 yarn add react-redux
 ```
+
+### Redux persist
+
+```sh
+yarn add redux-persist
+```
+
+## Themes
+
+Themes are color plalet which maches the color of different spices.
+
+- salt
+- pepper
+- red chillie
+- green chillie
+- lime
