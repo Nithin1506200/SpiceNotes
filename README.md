@@ -25,12 +25,15 @@ The color themes are inspiried by slices of india
   - [ ] destop
   - [ ] mobile
   - [ ] tablet
-- [ ] code
+- [ ] react code
   - [ ] data architecture
   - [ ] redux
   - [ ] redux persist
-  - [ ] reusable scss store
+  - [ ] reusable scss
   - [ ] routing
+  - [ ] error portal
+  - [ ] modal
+  - [ ] notification popup
   - [ ] reusable react components
   - [ ] responsiveness
 - [ ] testing
