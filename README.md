@@ -126,12 +126,20 @@ yarn add @reduxjs/toolkit
 
 ```sh
 yarn add react-redux
+
 ```
 
 ### Redux persist
 
 ```sh
 yarn add redux-persist
+yarn add @types/redux-persist
+```
+
+`vite-env.d.ts`
+
+```typescript
+/// <reference types="redux-persist" />
 ```
 
 ## Themes
