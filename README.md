@@ -43,7 +43,7 @@ The color themes are inspiried by slices of india
 - vite.js
 - react
 - typescript
-- eslint
+- eslint \* optional
 - scss
 - redux
 - redux saga
@@ -52,9 +52,6 @@ The color themes are inspiried by slices of india
 ### Init
 
 ---
-
-- use vite.js
-- use typescript
 
 ```sh
 npm create vite@latest
